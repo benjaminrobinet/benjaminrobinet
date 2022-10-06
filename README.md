@@ -10,5 +10,5 @@
 * 🎓 LinkedIn — [benjaminrobinet](https://www.linkedin.com/in/benjaminrobinet/)
 * 📷 Instagram — [benjamin_rbnt](https://instagram.com/benjamin_rbnt)
 
-## // Work
+## // WORK
 Many of my public projects are available at [github.com/benrbnt](https://github.com/benrbnt)
