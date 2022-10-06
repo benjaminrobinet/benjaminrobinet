@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-💻 Free-lance interactive developer focused on producing digital experiences.
+💻  Free-lance interactive developer focused on producing digital experiences.
 
-## // PORTFOLIO
+## //  PORTFOLIO
 📖 (WIP) [benrbnt.com](https://benrbnt.com)
 
-## // LINKS
-* 🐦 Twitter — [@nebrob_](https://twitter.com/nebrob_)
-* 🎓 LinkedIn — [benjaminrobinet](https://www.linkedin.com/in/benjaminrobinet/)
-* 📷 Instagram — [benjamin_rbnt](https://instagram.com/benjamin_rbnt)
+## //  LINKS
+* 🐦  Twitter — [@nebrob_](https://twitter.com/nebrob_)
+* 🎓  LinkedIn — [benjaminrobinet](https://www.linkedin.com/in/benjaminrobinet/)
+* 📷  Instagram — [benjamin_rbnt](https://instagram.com/benjamin_rbnt)
 
-## // WORK
+## //  WORK
 Many of my public projects are available at [github.com/benrbnt](https://github.com/benrbnt)
