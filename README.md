@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻  Free-lance interactive developer focused on producing digital experiences.
+💻  Freelance interactive & creative developer focused on producing digital experiences.
 
 ## //  PORTFOLIO
 📖 (WIP) [benrbnt.com](https://benrbnt.com)
